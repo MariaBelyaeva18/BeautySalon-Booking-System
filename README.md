@@ -135,3 +135,10 @@ beautysalon-booking/
 │   ├── models/
 ├── docs/            # Документация
 ```
+
+### Как внести вклад
+1. Форкните репозиторий
+2. Создайте feature-ветку (`git checkout -b feature/awesome-feature`)
+3. Зафиксируйте изменения (`git commit -m 'Add awesome feature'`)
+4. Запушьте ветку (`git push origin feature/awesome-feature`)
+5. Откройте Pull Request
