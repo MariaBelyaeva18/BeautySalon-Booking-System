@@ -1,7 +1,6 @@
 # Документация проекта BeautySalon Booking System
 
-![Логотип проекта](https://via.placeholder.com/150x50?text=BeautySalon)  
-*Версия 1.0.0 | Последнее обновление: 15.10.2023*
+*Версия 1.0.0*
 
 ---
 
